@@ -4,7 +4,8 @@ Bu çalışma, aiseclab.org bünyesinde cyber-bot ekibi projesi olarak geliştir
 
 ## 💻 Amaç
 
-Makine öğrenmesi modellerini kullarak port taraması sonuçları zararlı ve zararsız olarak sınıflandırılacaktır. Kullanılan veri setine ulaşmak için [bu bağlantıya tıklayabilirsiniz]([https://veriseti-baglanti.com](https://github.com/gubertoli/ProbingDataset)).
+Makine öğrenmesi modellerini kullarak port taraması sonuçları zararlı ve zararsız olarak sınıflandırılacaktır. Kullanılan veri setine ulaşmak için [Kullanılan veri setine ulaşmak için bu bağlantıya tıklayabilirsiniz](https://github.com/gubertoli/ProbingDataset)
+
 
 ## 💻 Ekip Üyeleri
 
@@ -48,7 +49,7 @@ Kullanılan kütüphaneler ve versiyon bilgileri aşağıda belirtilmiştir.
 
 ## 💻 Modeli Test Etmek
 
-Gerekli paketleri kurduktan sonra uygulamayı kullanmaya başlayabilirsiniz. Kurulum yapmadan bu [link üzerinden modeli test edebilirsiniz]([https://model-test-baglanti.com](https://ml-port-scanner.netlify.app/)).
+Gerekli paketleri kurduktan sonra uygulamayı kullanmaya başlayabilirsiniz. Kurulum yapmadan bu [link üzerinden modeli test edebilirsiniz](https://model-test-baglanti.com](https://ml-port-scanner.netlify.app/)).
 
 
 
