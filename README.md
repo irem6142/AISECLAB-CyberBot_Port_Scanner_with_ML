@@ -49,7 +49,7 @@ Kullanılan kütüphaneler ve versiyon bilgileri aşağıda belirtilmiştir.
 
 ## 💻 Modeli Test Etmek
 
-Gerekli paketleri kurduktan sonra uygulamayı kullanmaya başlayabilirsiniz. Kurulum yapmadan bu [link üzerinden modeli test edebilirsiniz](https://model-test-baglanti.com](https://ml-port-scanner.netlify.app/)).
+Gerekli paketleri kurduktan sonra uygulamayı kullanmaya başlayabilirsiniz. Kurulum yapmadan bu [link üzerinden modeli test edebilirsiniz](https://ml-port-scanner.netlify.app/).
 
 
 
